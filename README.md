@@ -1,23 +1,24 @@
-This project demonstrates a microservice architecture using an Ocelot API Gateway as the entry point, along with a demo .NET MAUI Android app to consume the services.
+# Assignment Project: Ocelot API Gateway with .NET MAUI Demo  
 
-🚀 Features
+This project demonstrates a **microservice architecture** using an **Ocelot API Gateway** as the entry point, along with a demo **.NET MAUI Android app** to consume the services.  
 
-Ocelot API Gateway for routing and aggregation
+---
 
-Microservices built with ASP.NET Core Web API
+## 🚀 Features
+- Ocelot API Gateway for routing and aggregation  
+- Microservices built with ASP.NET Core Web API  
+- .NET MAUI Android app as the frontend demo  
+- CRUD operations exposed via microservices  
+- Cross-service communication through gateway  
 
-.NET MAUI Android app as the frontend demo
+---
 
-CRUD operations exposed via microservices
+## 🛠️ Tech Stack
+- **Gateway:** Ocelot (ASP.NET Core)  
+- **Microservices:** ASP.NET Core Web API + EF Core (SQL Server/SQLite)  
+- **Frontend:** .NET MAUI (Android only)  
+- **Communication:** REST over HTTP + JSON  
 
-Cross-service communication through gateway
+---
 
-🛠️ Tech Stack
-
-Gateway: Ocelot (ASP.NET Core)
-
-Microservices: ASP.NET Core Web API + EF Core (SQL Server/SQLite)
-
-Frontend: .NET MAUI (Android only)
-
-Communication: REST over HTTP + JSON
+## 📂 Project Structure
