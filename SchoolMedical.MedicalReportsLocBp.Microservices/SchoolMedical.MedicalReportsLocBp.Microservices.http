@@ -1,0 +1,6 @@
+@SchoolMedical.MedicalReportsLocBp.Microservices_HostAddress = http://localhost:5251
+
+GET {{SchoolMedical.MedicalReportsLocBp.Microservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

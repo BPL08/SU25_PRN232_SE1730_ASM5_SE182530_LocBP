@@ -1,0 +1,5 @@
+open sdk manager 
+delete
+install some package
+applychanges
+pray

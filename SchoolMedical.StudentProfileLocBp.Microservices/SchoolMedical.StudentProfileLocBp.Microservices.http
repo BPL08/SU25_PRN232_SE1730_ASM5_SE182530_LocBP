@@ -1,0 +1,6 @@
+@SchoolMedical.StudentProfileLocBp.Microservices_HostAddress = http://localhost:5032
+
+GET {{SchoolMedical.StudentProfileLocBp.Microservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

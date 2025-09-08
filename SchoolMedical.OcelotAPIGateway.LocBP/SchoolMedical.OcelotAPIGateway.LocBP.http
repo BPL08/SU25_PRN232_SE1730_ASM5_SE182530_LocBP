@@ -1,0 +1,6 @@
+@SchoolMedical.OcelotAPIGateway.LocBP_HostAddress = http://localhost:5183
+
+GET {{SchoolMedical.OcelotAPIGateway.LocBP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

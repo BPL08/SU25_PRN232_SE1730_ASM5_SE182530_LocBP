@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMedical.BusinessObject.Shared.Models.LocBP", "SchoolMedical.BusinessObject.Shared.Models.LocBP\SchoolMedical.BusinessObject.Shared.Models.LocBP.csproj", "{07FBAABD-9E54-45CA-A79C-BCDB331254BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMedical.Common.Shared.Models.LocBP", "SchoolMedical.Common.Shared.Models.LocBP\SchoolMedical.Common.Shared.Models.LocBP.csproj", "{8A5FAF92-D9F6-4327-BCF5-D3E0DB12A29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMedical.MedicalReportsLocBp.Microservices", "SchoolMedical.MedicalReportsLocBp.Microservices\SchoolMedical.MedicalReportsLocBp.Microservices.csproj", "{40A02474-EEA6-4E92-AF89-6A6858520A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMedical.StudentProfileLocBp.Microservices", "SchoolMedical.StudentProfileLocBp.Microservices\SchoolMedical.StudentProfileLocBp.Microservices.csproj", "{5C52BAE6-2ACE-485D-AC92-BE1D77DB32A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMedical.OcelotAPIGateway.LocBP", "SchoolMedical.OcelotAPIGateway.LocBP\SchoolMedical.OcelotAPIGateway.LocBP.csproj", "{E43240EE-F8FB-4E1B-81ED-51A4DADCA95F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMedical.Client.MauiHybridApp.LocBP", "SchoolMedical.Client.MauiHybridApp.LocBP\SchoolMedical.Client.MauiHybridApp.LocBP.csproj", "{A3BAAFE3-5A3B-4BEC-9ED2-D698C5BB6860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Instructions to successfully debug with the emulator.txt = Instructions to successfully debug with the emulator.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FBAABD-9E54-45CA-A79C-BCDB331254BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FBAABD-9E54-45CA-A79C-BCDB331254BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FBAABD-9E54-45CA-A79C-BCDB331254BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FBAABD-9E54-45CA-A79C-BCDB331254BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5FAF92-D9F6-4327-BCF5-D3E0DB12A29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5FAF92-D9F6-4327-BCF5-D3E0DB12A29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5FAF92-D9F6-4327-BCF5-D3E0DB12A29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5FAF92-D9F6-4327-BCF5-D3E0DB12A29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A02474-EEA6-4E92-AF89-6A6858520A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A02474-EEA6-4E92-AF89-6A6858520A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A02474-EEA6-4E92-AF89-6A6858520A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A02474-EEA6-4E92-AF89-6A6858520A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C52BAE6-2ACE-485D-AC92-BE1D77DB32A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C52BAE6-2ACE-485D-AC92-BE1D77DB32A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C52BAE6-2ACE-485D-AC92-BE1D77DB32A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C52BAE6-2ACE-485D-AC92-BE1D77DB32A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43240EE-F8FB-4E1B-81ED-51A4DADCA95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43240EE-F8FB-4E1B-81ED-51A4DADCA95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43240EE-F8FB-4E1B-81ED-51A4DADCA95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43240EE-F8FB-4E1B-81ED-51A4DADCA95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BAAFE3-5A3B-4BEC-9ED2-D698C5BB6860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BAAFE3-5A3B-4BEC-9ED2-D698C5BB6860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BAAFE3-5A3B-4BEC-9ED2-D698C5BB6860}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A3BAAFE3-5A3B-4BEC-9ED2-D698C5BB6860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BAAFE3-5A3B-4BEC-9ED2-D698C5BB6860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BAAFE3-5A3B-4BEC-9ED2-D698C5BB6860}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {266E3B88-F46A-46CE-95F9-E1F07DD7E4F6}
+	EndGlobalSection
+EndGlobal
