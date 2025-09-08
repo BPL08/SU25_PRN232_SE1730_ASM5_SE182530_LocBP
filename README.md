@@ -19,6 +19,4 @@ This project demonstrates a **microservice architecture** using an **Ocelot API 
 - **Frontend:** .NET MAUI (Android only)  
 - **Communication:** REST over HTTP + JSON  
 
----
 
-## 📂 Project Structure
